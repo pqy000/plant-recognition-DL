@@ -19,7 +19,8 @@ For further details please refer **Project Details.pdf**
 ![alt text]( ./MLP.png?raw=true "MLP" )
 
 ### Dataset
-![Leaf Train set](https://cloud.tsinghua.edu.cn/d/7205d4451c4d477e8034/)
-![Leaf Test set]( ./MLP.png?raw=true "MLP" )
-![Leaf SQLite Database]( ./MLP.png?raw=true "MLP" )
+The download of the data set is divided into three parts: training set, test set and database configuration. The corresponding download links are as follows. You need to download it locally and save it in the corresponding folder of the directory. 
+- [Leaf Train set](https://cloud.tsinghua.edu.cn/d/7205d4451c4d477e8034/)
+- [Leaf Test set]( https://cloud.tsinghua.edu.cn/d/a0702a9f95d14ad6a341/ )
+- [Leaf SQLite Database]( https://cloud.tsinghua.edu.cn/d/ba1da4da781742d390d5/ )
 
