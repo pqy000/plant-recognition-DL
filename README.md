@@ -1,4 +1,4 @@
-# plant-recognition-DL
+# Plant-recognition-DL
 
 ## Leaf and Flower recognition
 
