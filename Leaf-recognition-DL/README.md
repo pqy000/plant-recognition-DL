@@ -19,4 +19,8 @@ For further details please refer **Project Details.pdf**
 ![alt text]( ./SVM.png?raw=true "MLP" )
 ![alt text]( ./MLP.png?raw=true "MLP" )
 
+### Dataset
+![Leaf Train set]( "" )
+![Leaf Test set]( ./MLP.png?raw=true "MLP" )
+![Leaf SQLite Database]( ./MLP.png?raw=true "MLP" )
 
